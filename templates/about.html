@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+{% block body %}
+    <div class="container">
+    <br>
+      <form class="form-group" method="post">
+          <div class="form-control">
+            {% csrf_token %}
+            {{ form.as_p }}
+              <input value="save" class="btn btn-success" type="submit">
+          </div>
+
+      </form>
+    </div>
+{% endblock %}

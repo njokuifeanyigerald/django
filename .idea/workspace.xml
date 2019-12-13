@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="068d5867-2e7b-43b9-83dd-79e684d030b5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TZjUuiwOD5tZCfL5GhEk0p7Vml" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GERALD\PycharmProjects\django_trail\project\templates\project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="django_trail" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_trail" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="068d5867-2e7b-43b9-83dd-79e684d030b5" name="Default Changelist" comment="" />
+      <created>1573674530129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573674530129</updated>
+      <workItem from="1573674531473" duration="2411000" />
+      <workItem from="1573721498957" duration="3134000" />
+      <workItem from="1573739236128" duration="4267000" />
+      <workItem from="1573761910751" duration="298000" />
+      <workItem from="1573762952923" duration="4196000" />
+      <workItem from="1573801294021" duration="5888000" />
+      <workItem from="1573811081076" duration="48000" />
+      <workItem from="1573821816702" duration="12200000" />
+      <workItem from="1573926947842" duration="6433000" />
+      <workItem from="1573991137518" duration="3652000" />
+      <workItem from="1574006997819" duration="4903000" />
+      <workItem from="1574013453052" duration="1776000" />
+      <workItem from="1574020471111" duration="2449000" />
+      <workItem from="1574054107237" duration="1162000" />
+      <workItem from="1574060693090" duration="3805000" />
+      <workItem from="1574150027566" duration="599000" />
+      <workItem from="1574250667491" duration="1797000" />
+      <workItem from="1574320421087" duration="1364000" />
+      <workItem from="1574944418724" duration="842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

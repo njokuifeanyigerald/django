@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+{% block body %}s
+    <div class="container">
+        <div class="jumbotron text-center">
+            <h1 class="display-4">hello Africa, happy Africa</h1>
+            <hr class="my-4">
+            <p class="title text-center">My DJango Trial</p>
+            <button class="btn btn-block btn-outline-info">buttton</button>
+{#            <p>{{ contest.title|capfirst }}</p>#}
+{#            {% if contest.description %}#}
+{#            {{ contest.description }}#}
+{#                                #}
+{#            {% else %}#}
+{#                __x#}
+{#                 description coming soon#}
+{#            {% endif %}#}
+
+{#            <p>{{ contest.price|capfirst }}</p>#}
+{#            <p>{{ contest.summary|capfirst }}</p>#}
+        </div>
+            <ul class="list-group">
+            {% for info in object_list%}
+                <li class="list-group-item">
+                    <p>{{ info.id }} - <a href={{ info.get_absolute_url }}>{{ info.title }}</a> </p>
+                </li>
+            {% endfor %}
+            </ul>
+
+    </div>
+{% endblock %}

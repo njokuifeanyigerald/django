@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block body %}
+    <div class="container">
+          <form action="" class="form-group"  method="post">
+                      {% csrf_token %}
+              <h2>do ya wanna delete? "{{ form.title }}"</h2>
+              <p><input type="submit" class="btn btn-outline-success" value="delete"> <a href="">cancel</a> </p>
+          </form>
+    </div>
+{% endblock %}

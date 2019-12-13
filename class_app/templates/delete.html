@@ -1,0 +1,17 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+    <br>
+
+    <div class="container ">
+        <form method="post" action="">
+            {% csrf_token %}
+            <h2 >do you wanna delete the post "{{ object.title }}"?</h2>
+            <div class="form-inline">
+                <p><input class="form-control btn-danger" type="submit" value="yes">..<a class="form-control btn-warning" href="../">Cancel</a></p>
+            </div>
+        </form>
+    </div>
+
+{% endblock %}
